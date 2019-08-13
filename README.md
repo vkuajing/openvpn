@@ -4,6 +4,4 @@
 
 查看更多 https://vkuajing.net
 
-
-付费VPN推荐列表： https://vkuajing.net/paid-vpn-list/
-自搭建VPN方法大全列表： https://vkuajing.net/vpn-install/
+<p>其他资源：<br />1.<span style="color: #0000ff;"><a href="https://vkuajing.net/paid-vpn-list/" style="color: #0000ff;">付费VPN推荐列表</a>：</span><br />2.<a href="https://vkuajing.net/vpn-install/"><span style="color: #0000ff;">自搭建VPN方法大全列表</span></a>：&nbsp;</p>
